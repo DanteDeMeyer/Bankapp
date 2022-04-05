@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 23 16:44:57 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-b773-d8f2-000009f278c0 
+on database directory memory:C:\Users\demey\Documents\School\Universiteit Antwerpen\3de bachelorjaar\Semester 6\6-Distributed Systems\bank-app-rest-api-master\BankApp\Extras\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@31221be2 
+Loaded from jar:file:/C:/Users/demey/Documents/School/Universiteit%20Antwerpen/3de%20bachelorjaar/Semester%206/6-Distributed%20Systems/bank-app-rest-api-master/BankApp/Extras/BankApp-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_301-b09
+user.dir=C:\Users\demey\Documents\School\Universiteit Antwerpen\3de bachelorjaar\Semester 6\6-Distributed Systems\bank-app-rest-api-master\BankApp\Extras
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
